@@ -24,9 +24,13 @@
 
 4. **三年经验？**
 
-<img src="./4.jpg" style="max-width:50%;"/>
+	<img src="./4.jpg" style="max-width:50%;"/>
 
-5. **薪资**
+5. **请问经验呢？**
+
+	<img src="./6.jpg" style="max-width:50%;"/>
+
+6. **薪资**
 
 说到薪资大家倒也是毫不客气，刚毕业的iOS开发，要价都是10k起
 
